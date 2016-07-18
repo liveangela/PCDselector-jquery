@@ -1,6 +1,5 @@
 /*！
  * Chinese region picker for jQuery plugin - v0.0.1 - 2016-03-01
- * Three level selection Doms named Province, City and District
  * Using region data from json files via ajax requests
  * https://github.com/liveangela/PCDselector-jquery
  * Copyright (c) 2016 liveangela;
