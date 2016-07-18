@@ -53,6 +53,10 @@ regionPicker.options.postcodeDom = $('#inputPostcode');
 }
 ```
 
+### json data
+The origin region data is maintained by [xixilive][crd].
+Here all these data has been updated manually to 2014-12 version, according to [NBS of PRC][nbs] 
+
 
 ## Release History
   * 2016-05-02  v0.0.1  the first version of PCDselector plugin.
@@ -60,3 +64,4 @@ regionPicker.options.postcodeDom = $('#inputPostcode');
 [crd]: https://github.com/xixilive/chinese_region_db
 [min]: https://raw.github.com/liveangela/PCDselector-jquery/master/dist/PCDselector.min.js
 [dev]: https://raw.github.com/liveangela/PCDselector-jquery/master/dist/PCDselector.js
+[nbs]: http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/
